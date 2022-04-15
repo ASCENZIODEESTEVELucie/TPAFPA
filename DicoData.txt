@@ -1,0 +1,85 @@
+Dictionnaire de données 
+
+Nom : Nom
+Code : NOM
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : Description
+Code : DESCRIPTION
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : Prix
+Code : PRIX
+Type : FLOAT
+Taille : ,
+Commentaire : 
+
+Nom : Type
+Code : TYPE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : ID
+Code : ID
+Type : AUTO_INCREMENT
+Taille : ,
+Commentaire : 
+
+Nom : ListeProd
+Code : LISTEPROD
+Type : TEXT
+Taille : ,
+Commentaire : 
+
+Nom : Total
+Code : TOTAL
+Type : FLOAT
+Taille : ,
+Commentaire : 
+
+Nom : Prenom
+Code : PRENOM
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : mail
+Code : MAIL
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : tel
+Code : TEL
+Type : INT
+Taille : 10,
+Commentaire : 
+
+Nom : Adresse
+Code : ADRESSE
+Type : VARCHAR
+Taille : 255,
+Commentaire : 
+
+Nom : City
+Code : CITY
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : Tel
+Code : TEL
+Type : VARCHAR
+Taille : 255,
+Commentaire : 
+
+Nom : Client
+Code : CLIENT
+Type : VARCHAR
+Taille : 700,
+Commentaire : 
