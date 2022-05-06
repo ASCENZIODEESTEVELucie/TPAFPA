@@ -1,0 +1,9 @@
+Je ne comprends pas pourquoi une de mes colonnes pour les clients mais aussi pour les commandes n'arrivent pas a
+afficher les données, il s'agit dans les deux cas de l'avant derniere colonne.
+ 
+Ce qui est le plus étrange c'est encore le fait que je meme si cela n'affiche pas, 
+je ne trouve pas de problèmes dans mon getter, le set marche car j'ai testé le save, 
+je ne comprends pas ce bug, si vous pouviez m'éclairer ce serait gentil merci :).
+
+De plus mon premier executable est un echec, si vous pouviez m'indiquer le processus pour en faire un ce serait,
+gentil de votre part aussi, merci par avance.
