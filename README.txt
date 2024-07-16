@@ -21,7 +21,7 @@ du projet du TP de la semaine =
   En revenche sur mon lanceur a partir
   de eclipse ça marche.
 
-- J'ai joinds également le dictionnaire de données (DicoData)
+- J'ai joins également le dictionnaire de données (DicoData)
   en esperant qu'il ne manquera rien car je n'en ai jamais fait
   auparavant.
 
